@@ -20,7 +20,7 @@ def main():
         if dict["character"].isalpha():
             char = dict["character"]
             count = dict["count"]
-            print(f"The '{char}' character was found {count} times")
+            print(f"{char}: {count}")
 
     print("--- End report ---")
 
