@@ -1,1 +1,1 @@
-Simple python bookbot
+Simple python bookbot to compile stats for books
