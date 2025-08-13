@@ -1,1 +1,1 @@
-Simple bookbot
+Simple python bookbot
